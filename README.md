@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning C# & Unity 3D game programming and reviewing the problems on leetcode.com.
 - 📫 Here are the links of my portfolio and LinkedIn:
 
-Portfolio: https://space.bilibili.com/474751660 LinkedIn: https://www.linkedin.com/in/huiyu4869wong/
+-     Portfolio: https://space.bilibili.com/474751660 
+-     LinkedIn: https://www.linkedin.com/in/huiyu4869wong/
 
 
 
