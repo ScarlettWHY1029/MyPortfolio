@@ -47,7 +47,7 @@ As a gamer and animation fans, I am a player of both achiever and explorer; my f
 
 The following link is the collection of the demo videos of my portfolio:
 
-[My Portfolio] (https://space.bilibili.com/474751660/)
+[My Portfolio](https://space.bilibili.com/474751660/)
 
 ----
 
@@ -56,7 +56,7 @@ The following link is the collection of the demo videos of my portfolio:
 The following links are the source codes or source images of my Unity 2D game development projects:
 
 #### Graduate Thesis Project
-[Newton's Apple] (https://github.com/ScarlettWHY1029/GraduateProject)
+[Newton's Apple](https://github.com/ScarlettWHY1029/GraduateProject)
 
 ----
 
